@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/wezn/wezn/refs/heads/main/standard.gif"  />
+  <img height="200" src="https://raw.githubusercontent.com/6hack/6hack/refs/heads/main/standard.gif"  />
 </div>
 
 ###
